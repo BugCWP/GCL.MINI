@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<navigation-bar title="鑫光云" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+<scroll-view class="scrollarea" scroll-y type="list">
+  <view class="container">
+  <view style="width: 80%;size: 30px;">
+    鑫光云是协鑫绿能系统科技有限公司的光伏开发管理平台
+  </view>
+    
+  </view>
+</scroll-view>
